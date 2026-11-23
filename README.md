@@ -181,7 +181,7 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Event-Management-Platform.git
+git clone https://github.com/ajinkya029/event-management-platform-mern.git
 ```
 
 ### 2. Navigate to the Project Directory
